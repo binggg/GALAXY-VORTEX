@@ -6,6 +6,12 @@
 
 > 本项目基于 [**CloudBase AI ToolKit**](https://github.com/TencentCloudBase/CloudBase-AI-ToolKit) 开发
 
+
+https://github.com/user-attachments/assets/6c953f44-fb2b-45cb-b481-99b0f9409cdf
+
+
+
+
 ## ✨ 功能特点
 
 - 🌌 **3D 银河视觉效果** - 基于 Three.js 的沉浸式抽奖体验
